@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Iceland_Environment/Example_Map/Lv_Tutorial_Iceland.umap
+Content/Iceland_Environment/Static_Meshes/SM_Iceland_Mountain_02.uasset
