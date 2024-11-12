@@ -72,5 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+<<<<<<< HEAD
 Content/laney/laney_level/3d_assets/mountain2/Rock028_4K-PNG_NormalGL.uasset
 Content/laney/laney_level/3d_assets/mountain_clouds/cliff_normal.uasset
+=======
+Content/Kabbya_level/Kabbya_HDR/satara_night_8k.uasset
+>>>>>>> origin/Ahnaf_Kabbya
