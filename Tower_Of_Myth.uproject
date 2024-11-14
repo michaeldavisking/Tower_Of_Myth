@@ -41,7 +41,6 @@
 			]
 		},
 		{
-<<<<<<< HEAD
 			"Name": "OpenXRViveTracker",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
@@ -49,14 +48,6 @@
 				"Linux",
 				"Android"
 			]
-=======
-			"Name": "Water",
-			"Enabled": true
-		},
-		{
-			"Name": "WaterExtras",
-			"Enabled": true
->>>>>>> origin/fix_Emmanuel
 		}
 	]
 }
