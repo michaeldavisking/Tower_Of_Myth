@@ -72,4 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-Content/Emmanuel/3d_models/main_building/Corbelled_building.uasset
+Content/laney/laney_level/3d_assets/mountain2/Rock028_4K-PNG_NormalGL.uasset
+Content/laney/laney_level/3d_assets/mountain_clouds/cliff_normal.uasset

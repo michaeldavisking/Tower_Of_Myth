@@ -41,12 +41,13 @@
 			]
 		},
 		{
-			"Name": "Water",
-			"Enabled": true
-		},
-		{
-			"Name": "WaterExtras",
-			"Enabled": true
+			"Name": "OpenXRViveTracker",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux",
+				"Android"
+			]
 		}
 	]
 }
